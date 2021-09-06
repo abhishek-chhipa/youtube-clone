@@ -1,0 +1,11 @@
+.sidebar{
+    flex:0.2;     /*only takes 20% op the space*/
+}
+
+.sidebar >hr{
+    border: 0;
+    background-color: lightgrey;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 1px;
+}
